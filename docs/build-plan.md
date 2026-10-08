@@ -43,13 +43,32 @@ Cadillac ride empty, easy towing, capable but not extreme off road for hunting.
 - Complete replacement rear leaf pack, no lift block. Progressive rate, soft empty, carries a trailer loaded.
 - Built by Deaver for Carli. Roughly $1,500 to $2,000 per pair.
 - Rejected: Carli Progressive Add-A-Pack (option 2). Cheaper but keeps a block and is not the full fix.
-- Pair with:
-  - Carli 4.5 inch front system (Pintop or Backcountry) so the truck sits level.
-  - King 2.5 remote reservoir shocks front and rear, Carli valved. Do not use generic shocks.
-  - Carli U-bolt kit.
-  - Firestone Ride-Rite air bags. 5 to 10 psi empty, pump up for towing.
-  - Consider Carli torsion sway bar if towing anything tall.
-- Before ordering, call Carli or a dealer (Thuren, Fogelsanger) to confirm current part numbers for a 2011 F350 SRW 4x4 on 37s that tows, and that rear height matches the front springs.
+- Spring rate: **Standard** (not Heavy Duty or Extreme Heavy Duty). Truck runs mostly empty, Cadillac ride is the goal, air bags carry the trailer. Switch to Heavy Duty only if a gooseneck or fifth wheel with 3,000+ lb pin weight gets towed often, or a permanent heavy bed load goes in.
+
+### Carli order, priced 2026-10-08
+
+| Part | Pick | Why |
+|---|---|---|
+| Backcountry 2.0 System, 4.5 inch, 11-16 F250/F350 4x4 | Yes | Front coils, Carli SPEC 2.0 shocks, brake lines, adjustable track bar, caster adjusters. 2.0 shocks are right for hunting speed off road and towing. Pintop 2.5 reservoir not needed. |
+| Full Progressive Leaf Springs, Standard | Yes | Rear. Replaces block. |
+| Leaf Spring Shackles 05-26 4x4 | Yes | Carli geometry is designed around their longer shackle. New bushings. |
+| Long Travel Airbags 08-16 SRW | Yes | Sized to the leaf travel. Replaces the Ride-Rite idea. 5 to 10 psi empty, pump up to tow. |
+| Fabricated Adjustable Radius Arms 05-22 | Yes | Sets caster and centers axle for 37s. Fixes highway wander. Replaces the radius arm drop brackets in the Backcountry kit. Order the system configured with arms instead of brackets. |
+| Sway Bar Drop Brackets 11-16 4x4 | Yes | Fixes end link angle at 4.5 inch. |
+| Carrier Bearing Drop 05-26 | Yes | Two piece rear driveshaft, prevents vibration after lift. |
+| High Mount Steering Stabilizer 05-26 | Yes | Tucked up for brush and rocks. |
+| Low Mount Steering Stabilizer | No | One or the other. High mount chosen. |
+
+**Quoted total: $7,390** for everything above.
+
+Not in that total, budget separately:
+- Install labor and alignment.
+- Air compressor or onboard air for the bags, or a manual fill schrader setup.
+- U-bolts if not included with the leaf springs (confirm with Carli).
+- Wheels if current offset does not clear 37s at 4.5 inch.
+- Front end wear parts found during the regear (unit bearings, tie rod ends, drag link, track bar bushings).
+
+Before ordering, call Carli or a dealer (Thuren, Fogelsanger) to confirm current part numbers for a 2011 F350 SRW 4x4 on 37s that tows, that rear height matches the front springs, and that the Backcountry comes configured for the adjustable arms.
 
 ### 37s on 4.5 inch
 
@@ -60,8 +79,8 @@ Cadillac ride empty, easy towing, capable but not extreme off road for hunting.
 
 1. Buy straight Sterling 10.5 donor, regear rear to 4.30.
 2. Regear front Dana 60 to 4.30, inspect and replace worn front end parts.
-3. While rear axle is out, install Carli 4.5 system and Full Progressive Leaf Springs.
-4. King 2.5 shocks, Ride-Rite bags, steering stabilizer.
+3. While rear axle is out, install Carli Backcountry 2.0 with adjustable radius arms, Standard Full Progressive Leaf Springs, and shackles.
+4. Carli SPEC 2.0 shocks (in the Backcountry kit), long travel air bags, high mount stabilizer, carrier bearing drop, sway bar drop brackets.
 5. Reprogram PCM for 37 inch tires and 4.30 ratio.
 6. Alignment.
 
