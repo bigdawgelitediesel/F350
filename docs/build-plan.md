@@ -18,23 +18,49 @@ Cadillac ride empty, easy towing, capable but not extreme off road for hunting.
 
 ## Decisions
 
-### Rear axle: replace bent housing, regear to 4.30
+### Axles: matched 4.10 Dana 60 and Sterling 10.5 swap
 
-- Current rear housing is bent. Replace with a straight used Sterling 10.5 from a 2011 to 2016 F250/F350 SRW. Any ratio is fine, it gets regeared.
-- Confirm donor is a 10.5 not a 10.25. Check tubes with a string line. Pull cover and check for metal.
-- Confirm donor has ABS tone ring, parking brake hardware, backing plates, and matches E-locker vs open.
-- Carrier break: 3.73 and down uses the low carrier, 4.10 and up uses the high carrier. A 4.10+ donor saves buying a carrier for 4.30.
-- Parts: 4.30 ring and pinion, master install kit, carrier if needed, axle seals, wheel bearings, cover gasket, 75W-140 (about 3.5 qt).
+**DECIDED: buy the matched used pair, 4.10 front and rear, limited slip rear. No regear.**
 
-### Front axle: regear to 4.30 to match
+Found a Dana 60 front and Sterling 10.5 rear, both 4.10, rear has a limited slip. A matched pair skips the whole front and rear regear, roughly $1,500 to $2,500 saved. 4.10 on 37s is about a stock 3.55 feel, which Ford sold plenty of for towing. About 5 percent less than 4.30, not worth chasing. 4.10 and 4.30 share the same carrier, so a 4.30 ring and pinion later is gears only.
 
-- Required on 4x4. Front and rear must match or the transfer case binds.
-- Parts: 4.30 ring and pinion for Dana Super 60, master install kit, 75W-140 (about 3 qt).
-- Inspect while apart: unit bearings, tie rod ends, drag link, track bar bushings.
+Limited slip rear is a plus for mud, wet grass, and boat ramps. If the truck has the factory E-locker, the dash switch becomes dead and should be unplugged to avoid a fault.
 
-### Why 4.30
+**Donor year matters.** Ford did not offer 4.10 on 2011 to 2016 trucks (3.31, 3.55, 3.73, 4.30). So the pair is either aftermarket regeared 2011 to 2016 axles, or from a 2005 to 2010 truck. Get the donor year and VIN from the seller.
 
-37s on stock gearing is like running a half-ton ratio. 4.30 puts a 37 back to a stock 3.73 feel. 4.56 tows better but buzzes on the highway. 4.30 is the pick.
+#### Inspection before buying
+
+- Confirm both read 4.10. Pull covers or count teeth. Front and rear must match or the transfer case binds.
+- Rear is a 10.5, SRW, not a 10.25 and not a dually axle.
+- Front is a Super 60 from a 4x4.
+- String line both housings for straightness.
+- Spin both pinions. Smooth, no play, no growl.
+- Limited slip test: jack one rear wheel, trans in neutral, try to turn it by hand. It should resist. Spins free means the clutches are gone.
+- Rear has ABS tone ring, backing plates, parking brake hardware. Front has unit bearings, knuckles, ideally brakes.
+
+#### If donor is 2005 to 2010: swapping parts from the bent 2011 axle
+
+Bolt-on parts swap over:
+- Rear brake backing plates, calipers, rotors, parking brake hardware. Same 8 on 170mm.
+- Rear axle shafts, 35 spline full float, confirm spline match.
+- Pinion flange so the 2011 driveshaft bolts up. Swap during the pinion seal job.
+- Front unit bearings, knuckles, ball joints, brakes, axle shafts, U-joints.
+- Brake lines and hoses.
+
+Check hard before buying:
+- Rear ABS reads a tone ring inside the housing on the differential. Compare tone ring tooth count and sensor between donor and 2011. Mismatch means ABS and traction lights and a wrong speedo.
+- Welded brackets cannot be swapped: rear spring perches, shock mounts, sway bar mounts; front track bar bracket and radius arm mounts. Lay donor next to the bent axle and measure perch to perch, shock mount to shock mount, track bar bracket position.
+- Take the bent rear along, or photos with a tape in frame, and compare side by side.
+
+#### Parts for the swap
+
+- Pinion seals both ends, axle seals, wheel bearings rear, diff cover gaskets.
+- 75W-140 synthetic. Rear about 3.5 qt plus friction modifier for the limited slip. Front about 3 qt.
+- Inspect and replace front end wear parts while apart: unit bearings, tie rod ends, drag link, track bar bushings.
+
+### Why 4.10 over 4.30
+
+37s on stock gearing is like running a half-ton ratio. 4.30 would land at a stock 3.73 feel, 4.10 lands at about 3.55. The matched used pair makes 4.10 the cheaper and simpler answer and the difference is small.
 
 ### Suspension: drop from 6 inch to 4.5 inch Carli
 
@@ -77,17 +103,17 @@ Before ordering, call Carli or a dealer (Thuren, Fogelsanger) to confirm current
 
 ## Order of operations
 
-1. Buy straight Sterling 10.5 donor, regear rear to 4.30.
-2. Regear front Dana 60 to 4.30, inspect and replace worn front end parts.
+1. Inspect and buy the matched 4.10 Dana 60 and Sterling 10.5 pair.
+2. Swap bolt-on parts from the bent 2011 axle if donor is 2005 to 2010. Inspect and replace worn front end parts.
 3. While rear axle is out, install Carli Backcountry 2.0 with adjustable radius arms, Standard Full Progressive Leaf Springs, and shackles.
 4. Carli SPEC 2.0 shocks (in the Backcountry kit), long travel air bags, high mount stabilizer, carrier bearing drop, sway bar drop brackets.
-5. Reprogram PCM for 37 inch tires and 4.30 ratio.
+5. Reprogram PCM for 37 inch tires and 4.10 ratio.
 6. Alignment.
 
 ## Open items
 
-- Read door sticker axle code to confirm current ratio.
-- Confirm whether truck has E-locker.
+- Donor year and VIN for the 4.10 axle pair.
+- Confirm whether truck has E-locker (dash switch gets unplugged with the limited slip rear).
 - Tire load rating on the 37s (need E or at minimum D for towing).
 - Trailer weight, to size brake controller and weight distribution.
 - CP4 pump: bypass kit or CP3 conversion is mandatory before any tune.
