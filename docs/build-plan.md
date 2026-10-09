@@ -58,6 +58,17 @@ Check hard before buying:
 - 75W-140 synthetic. Rear about 3.5 qt plus friction modifier for the limited slip. Front about 3 qt.
 - Inspect and replace front end wear parts while apart: unit bearings, tie rod ends, drag link, track bar bushings.
 
+#### Front axle: ball joint delete
+
+**DECIDED: ball joint delete kit on the donor Dana 60, installed while the axle is out.**
+
+- 37s eat the stock press-in ball joints. Delete kits swap to a greaseable, rebuildable bushing or uniball. Wear item becomes a bushing, no press needed.
+- Tight joints plus adjustable radius arms plus one stabilizer is the wander fix. Dual stabilizers rejected, they mask loose parts and numb the wheel.
+- Caster: with ball joints deleted, caster is set by the Carli adjustable radius arms. Confirm the kit works with Carli arms and tell the alignment shop.
+- Knuckle prep: clean or ream bores per kit instructions. Inspect donor knuckles for wallowed bores before buying.
+- Add greasing the joints to the oil change checklist.
+- Kit brand: not yet picked.
+
 ### Why 4.10 over 4.30
 
 37s on stock gearing is like running a half-ton ratio. 4.30 would land at a stock 3.73 feel, 4.10 lands at about 3.55. The matched used pair makes 4.10 the cheaper and simpler answer and the difference is small.
@@ -104,7 +115,7 @@ Before ordering, call Carli or a dealer (Thuren, Fogelsanger) to confirm current
 ## Order of operations
 
 1. Inspect and buy the matched 4.10 Dana 60 and Sterling 10.5 pair.
-2. Swap bolt-on parts from the bent 2011 axle if donor is 2005 to 2010. Inspect and replace worn front end parts.
+2. Swap bolt-on parts from the bent 2011 axle if donor is 2005 to 2010. Ball joint delete on the front. Inspect and replace worn front end parts.
 3. While rear axle is out, install Carli Backcountry 2.0 with adjustable radius arms, Standard Full Progressive Leaf Springs, and shackles.
 4. Carli SPEC 2.0 shocks (in the Backcountry kit), long travel air bags, high mount stabilizer, carrier bearing drop, sway bar drop brackets.
 5. Reprogram PCM for 37 inch tires and 4.10 ratio.
@@ -116,4 +127,6 @@ Before ordering, call Carli or a dealer (Thuren, Fogelsanger) to confirm current
 - Confirm whether truck has E-locker (dash switch gets unplugged with the limited slip rear).
 - Tire load rating on the 37s (need E or at minimum D for towing).
 - Trailer weight, to size brake controller and weight distribution.
+- Pick the ball joint delete kit brand.
+- Road force balance the 37s, not spin balance.
 - CP4 pump: bypass kit or CP3 conversion is mandatory before any tune.
