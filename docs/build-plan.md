@@ -11,6 +11,7 @@
 | Front axle | Dana Super 60 |
 | Tires | 37 inch |
 | Current lift | Old 6 inch, Bilstein shocks (too stiff) |
+| Fuel system | CP4 already gone, CP3 conversion. FASS lift pump. |
 
 ## Goal
 
@@ -88,6 +89,25 @@ Notes:
 - Install with the axle swap. Use the 2011 knuckles, calipers, rotors, and rear backing plates on the donor axles. 2005 to 2010 front brakes are smaller.
 - Trailer brakes stop the trailer. Proportional controller (Tekonsha P3 or factory integrated) tuned correctly matters as much as pads.
 
+### Fuel tank
+
+**DECIDED: S&B replacement fuel tank for 2011 to 2016 Super Duty, installed while the rear axle is out.**
+
+- Roughly doubles capacity, about 60 gal depending on cab and bed, versus the stock 26 or 37 gal.
+- Drops in from below. Easy with the axle on the floor, miserable past a live axle.
+- Keeps the stock footprint, no ground clearance lost. Reuses the factory pump module and sending unit, gauge reads right without an add-on module.
+- Weight: about 7 lb per gallon, roughly 160 lb more when full versus a 37 gal tank. Does not change the Standard spring pick.
+- Install: usually no cutting, heat shield may need tweaking. Buy a new lock ring seal.
+- Fill slowly the first few tanks until you learn how it burps.
+- Alt: Titan, if S&B is backordered. Titan usually needs a gauge module.
+
+FASS lift pump and the new tank:
+- Draw straw through the factory module (most likely): module lifts out and drops into the S&B with the FASS hooked up. Confirm the straw reaches the deeper S&B bottom or you strand fuel.
+- Sump bolted to the tank belly: stays with the old tank. Order the S&B set up for a sump and install a new one.
+- How to tell: metal fitting with a hose on the bottom of the tank means sump. Clean plastic bottom and FASS hose going to the top of the tank means draw straw.
+
+CP4 bypass is not needed. CP4 is already replaced with a CP3.
+
 ### Why 4.10 over 4.30
 
 37s on stock gearing is like running a half-ton ratio. 4.30 would land at a stock 3.73 feel, 4.10 lands at about 3.55. The matched used pair makes 4.10 the cheaper and simpler answer and the difference is small.
@@ -137,9 +157,10 @@ Before ordering, call Carli or a dealer (Thuren, Fogelsanger) to confirm current
 2. Swap bolt-on parts from the bent 2011 axle if donor is 2005 to 2010. Ball joint delete on the front. Inspect and replace worn front end parts.
 3. While rear axle is out, install Carli Backcountry 2.0 with adjustable radius arms, Standard Full Progressive Leaf Springs, and shackles.
 4. Carli SPEC 2.0 shocks (in the Backcountry kit), long travel air bags, high mount stabilizer, carrier bearing drop, sway bar drop brackets.
-5. Brakes: PowerStop Z36 front and rear, braided lines, DOT 4 flush and bleed.
-6. Reprogram PCM for 37 inch tires and 4.10 ratio.
-7. Alignment.
+5. S&B fuel tank while the rear axle is out. Move FASS pickup over.
+6. Brakes: PowerStop Z36 front and rear, braided lines, DOT 4 flush and bleed.
+7. Reprogram PCM for 37 inch tires and 4.10 ratio.
+8. Alignment.
 
 ## Open items
 
@@ -150,4 +171,6 @@ Before ordering, call Carli or a dealer (Thuren, Fogelsanger) to confirm current
 - Pick the ball joint delete kit brand.
 - Road force balance the 37s, not spin balance.
 - Confirm Carli extended brake lines are braided before buying separate front lines.
-- CP4 pump: bypass kit or CP3 conversion is mandatory before any tune.
+- Cab and bed config, to pick the right S&B tank part number.
+- FASS pickup: draw straw or sump. Look at the tank bottom.
+- Is the truck tuned? Log the tuner and tune level.
