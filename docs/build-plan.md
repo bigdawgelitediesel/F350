@@ -69,6 +69,25 @@ Check hard before buying:
 - Add greasing the joints to the oil change checklist.
 - Kit brand: not yet picked.
 
+### Brakes
+
+**DECIDED: PowerStop Z36 Truck and Tow kit, front and rear, braided stainless lines, DOT 4 high temp flush.**
+
+37s cut braking because the tire is a longer lever. Stock 2011 brakes are already large, so no big brake kit. The gains come from pad compound, heat handling, and fresh hydraulics.
+
+| Item | Pick | Why |
+|---|---|---|
+| Pads | PowerStop Z36 truck and tow compound (alt: EBC Yellowstuff) | Most of the stopping gain. Not quiet ceramic daily pads. |
+| Rotors | Slotted (Z36 kit is drilled and slotted, acceptable) | Slots clear gas and dust, run cooler. Drilled is mostly looks. |
+| Calipers | New loaded calipers, stock size | 2011 originals are 15 years old. Fresh seals, no drag heat, even pad wear. |
+| Brake lines | Braided stainless | Firmer pedal. Check if Carli extended front lines are already braided. |
+| Fluid | DOT 4 high temp, full flush | Old fluid boils under tow heat. Cheap, overlooked. |
+| Big brake kit | No | Rare for these trucks, expensive, stock size is enough. |
+
+Notes:
+- Install with the axle swap. Use the 2011 knuckles, calipers, rotors, and rear backing plates on the donor axles. 2005 to 2010 front brakes are smaller.
+- Trailer brakes stop the trailer. Proportional controller (Tekonsha P3 or factory integrated) tuned correctly matters as much as pads.
+
 ### Why 4.10 over 4.30
 
 37s on stock gearing is like running a half-ton ratio. 4.30 would land at a stock 3.73 feel, 4.10 lands at about 3.55. The matched used pair makes 4.10 the cheaper and simpler answer and the difference is small.
@@ -118,8 +137,9 @@ Before ordering, call Carli or a dealer (Thuren, Fogelsanger) to confirm current
 2. Swap bolt-on parts from the bent 2011 axle if donor is 2005 to 2010. Ball joint delete on the front. Inspect and replace worn front end parts.
 3. While rear axle is out, install Carli Backcountry 2.0 with adjustable radius arms, Standard Full Progressive Leaf Springs, and shackles.
 4. Carli SPEC 2.0 shocks (in the Backcountry kit), long travel air bags, high mount stabilizer, carrier bearing drop, sway bar drop brackets.
-5. Reprogram PCM for 37 inch tires and 4.10 ratio.
-6. Alignment.
+5. Brakes: PowerStop Z36 front and rear, braided lines, DOT 4 flush and bleed.
+6. Reprogram PCM for 37 inch tires and 4.10 ratio.
+7. Alignment.
 
 ## Open items
 
@@ -129,4 +149,5 @@ Before ordering, call Carli or a dealer (Thuren, Fogelsanger) to confirm current
 - Trailer weight, to size brake controller and weight distribution.
 - Pick the ball joint delete kit brand.
 - Road force balance the 37s, not spin balance.
+- Confirm Carli extended brake lines are braided before buying separate front lines.
 - CP4 pump: bypass kit or CP3 conversion is mandatory before any tune.
